@@ -1,0 +1,14 @@
+Lista de OK
+1.Modelo - OK
+2.Repositorio - Ok
+
+Objetivo: Criar uma API RestFull para controle de produtos
+Modelo: Produto: id, nome, quantidade, valor, observacao
+
+Primeiro passo é criar um Modelo
+
+Segunda passo é criar o Repositorio de usúario 
+    Metodos: obterTodos, obterPorId, adicionar, atualizar, deletar.
+
+
+
