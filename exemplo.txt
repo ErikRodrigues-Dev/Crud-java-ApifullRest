@@ -1,6 +1,7 @@
 Lista de OK
 1.Modelo - OK
 2.Repositorio - Ok
+3.Produto Service - Ok
 
 Objetivo: Criar uma API RestFull para controle de produtos
 Modelo: Produto: id, nome, quantidade, valor, observacao
@@ -10,5 +11,9 @@ Primeiro passo é criar um Modelo
 Segunda passo é criar o Repositorio de usúario 
     Metodos: obterTodos, obterPorId, adicionar, atualizar, deletar.
 
+Serviço de produto: 
+    obterTodos, obterPorId, adicionar, atualizar, deletar.
 
+Controller de produto
+    Classe principal para trabalhar com todos os Metodos (obterTodos, obterPorId, adicionar, atualizar, deletar.)
 
